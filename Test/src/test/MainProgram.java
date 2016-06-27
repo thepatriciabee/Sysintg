@@ -12,6 +12,6 @@ package test;
 public class MainProgram {
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("yoko na");
+        System.out.println("yoko na pls");
     }
 }
